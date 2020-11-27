@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:Practica3.ViewModels"
+             x:DataType="vm:HomeViewModel"
+             x:Class="Practica3.Views.HomePage"
+             BackgroundColor="White">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition  />
+                <RowDefinition />
+                <RowDefinition  />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <BoxView Color="Gray" />
+            <Label Text="Bars and Hotels"
+                   TextColor="Black"
+               HorizontalOptions="Center"
+               VerticalOptions="Center" />
+            <BoxView Grid.Column="1"
+                 Color="Gray" />
+            <Label Grid.Column="1"
+               Text="Fine Dining"
+                   TextColor="Black"
+               HorizontalOptions="Center"
+               VerticalOptions="Center" />
+            <BoxView Grid.Row="1"
+                 Color="Yellow" />
+            <Label Grid.Row="1"
+               Text="Cafes"
+                   TextColor="Black"
+               HorizontalOptions="Center"
+               VerticalOptions="Center" />
+            <BoxView Grid.Row="1"
+                 Grid.Column="1"
+                 Color="Gray" />
+            <Label Grid.Row="1"
+               Grid.Column="1"
+               Text="Nearby"
+                   TextColor="Black"
+               HorizontalOptions="Center"
+               VerticalOptions="Center" />
+            <BoxView Grid.Row="2"
+                 Color="Gray" />
+            <Label Grid.Row="2"
+               Text="Fast Foods"
+                   TextColor="Black"
+               HorizontalOptions="Center"
+               VerticalOptions="Center" />
+            <BoxView Grid.Row="2"
+             Grid.Column="1"/>
+            <Label Grid.Row="2"
+               Grid.Column="1"
+               Text="Featured Foods"
+               TextColor="Black"
+               HorizontalOptions="Center"
+               VerticalOptions="Center" />
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

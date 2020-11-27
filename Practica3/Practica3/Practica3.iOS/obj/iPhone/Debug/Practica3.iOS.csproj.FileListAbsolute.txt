@@ -1,0 +1,9 @@
+C:\Users\victo\source\repos\Practica3\Practica3\Practica3.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\victo\source\repos\Practica3\Practica3\Practica3.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\victo\source\repos\Practica3\Practica3\Practica3.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\victo\source\repos\Practica3\Practica3\Practica3.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\victo\source\repos\Practica3\Practica3\Practica3.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\victo\source\repos\Practica3\Practica3\Practica3.iOS\obj\iPhone\Debug\optimized\
+C:\Users\victo\source\repos\Practica3\Practica3\Practica3.iOS\obj\iPhone\Debug\Practica3.iOS.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\Practica3\Practica3\Practica3.iOS\obj\iPhone\Debug\Practica3.iOS.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\Practica3\Practica3\Practica3.iOS\obj\iPhone\Debug\build-signature\signature

@@ -1,0 +1,11 @@
+C:\Users\victo\source\repos\Practica3\Practica3\Practica3\obj\Release\netstandard2.0\Practica3.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\Practica3\Practica3\Practica3\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\victo\source\repos\Practica3\Practica3\Practica3\obj\Release\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\victo\source\repos\Practica3\Practica3\Practica3\obj\Release\netstandard2.0\Views\LogIn.xaml.g.cs
+C:\Users\victo\source\repos\Practica3\Practica3\Practica3\obj\Release\netstandard2.0\Views\Register.xaml.g.cs
+C:\Users\victo\source\repos\Practica3\Practica3\Practica3\obj\Release\netstandard2.0\Practica3.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\Practica3\Practica3\Practica3\obj\Release\netstandard2.0\Practica3.AssemblyInfo.cs
+C:\Users\victo\source\repos\Practica3\Practica3\Practica3\obj\Release\netstandard2.0\Practica3.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\Practica3\Practica3\Practica3\obj\Release\netstandard2.0\Practica3.dll
+C:\Users\victo\source\repos\Practica3\Practica3\Practica3\obj\Release\netstandard2.0\ref\Practica3.dll
+C:\Users\victo\source\repos\Practica3\Practica3\Practica3\obj\Release\netstandard2.0\Practica3.pdb
